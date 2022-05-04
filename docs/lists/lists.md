@@ -1,4 +1,4 @@
-## Python slicing
+## Python lists
 
 To add all use `extend`
 ```python
