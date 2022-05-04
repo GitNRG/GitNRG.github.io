@@ -1,5 +1,5 @@
-### [This is title](docs/1/1.md)
+### [Python slicing](docs/slicing/slicing.md)
 
-Brief description
+How to use slicing `[start:stop:step]`
 
 ---
