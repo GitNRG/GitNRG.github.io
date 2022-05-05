@@ -9,3 +9,9 @@ How to use slicing `[start:stop:step]`
 What's different in lists
 
 ---
+
+### [Build-in Functions](docs/built-in/built-in.md)
+
+Unknown functionality out the box that
+
+---
