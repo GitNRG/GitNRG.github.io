@@ -1,4 +1,4 @@
-## Build-in Functions
+# Build-in Functions
 
 Complete list could be found [here](https://docs.python.org/3/library/functions.html)
 
