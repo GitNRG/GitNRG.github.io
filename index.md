@@ -35,3 +35,9 @@ Specifics of strings in python
 `*args`, `**kwargs` and unpacking operator
 
 ---
+
+### [Decorators](docs/decorators.md)
+
+The magic `@` sign
+
+---
