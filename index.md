@@ -1,25 +1,37 @@
 # Python
 
-## [Python slicing](docs/slicing/slicing.md)
+## [Python slicing](docs/slicing.md)
 
 How to use slicing `[start:stop:step]`
 
 ---
 
-### [Lists](docs/lists/lists.md)
+### [Lists](docs/lists.md)
 
 What's different in lists
 
 ---
 
-### [Build-in Functions](docs/built-in/built-in.md)
+### [Build-in Functions](docs/built-in.md)
 
 Unknown functionality out the box that
 
 ---
 
-### [Other](docs/other/other.md)
+### [Other](docs/other.md)
 
 Unknown functionality out the box that
+
+---
+
+### [Strings](docs/strings.md)
+
+Specifics of strings in python
+
+---
+
+### [Varagrs](docs/varagrs.md)
+
+`*args`, `**kwargs` and unpacking operator
 
 ---

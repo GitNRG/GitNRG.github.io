@@ -44,8 +44,8 @@ __repr__ for Car
 ```
 
 Diff
-* The result of the date object’s __str__ function should primarily be readable.
-* With __repr__, the idea is that its result should be, above all, unambiguous.
+* The result of the date object’s `__str__` function should primarily be readable.
+* With `__repr__`, the idea is that its result should be, above all, unambiguous.
 
 ```python
 >>> str(today)
@@ -53,3 +53,14 @@ Diff
 >>> repr(today)
 'datetime.date(2017, 2, 2)'
 ```
+
+
+---
+
+Python has 4 namespaces:
+* Built-In - something that comes from python itself. Like `java.lang` or something
+* Global - specific to some program
+* Enclosing - variable from function that wraps another function
+* Local - variable in a function
+
+Scope follow unofficially called LEGB rule - local, enclosing, global, and finally the built-in scope.
